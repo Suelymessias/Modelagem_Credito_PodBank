@@ -1,4 +1,4 @@
-*Objetivo da Análise Exploratória de Dados (EDA):
+## Objetivo da Análise Exploratória de Dados (EDA):
 
 O objetivo desta Análise Exploratória de Dados (EDA) é compreender melhor o perfil do público da PoD Bank, explorando as características e padrões presentes na base de dados. Através da EDA, buscamos identificar insights relevantes que possam informar o processo de modelagem de crédito, contribuindo para uma tomada de decisão mais fundamentada e eficaz. Ao analisar os dados de forma abrangente, buscamos entender as relações entre as variáveis e identificar possíveis tendências que possam impactar o desempenho dos modelos estatísticos.
 
