@@ -14,7 +14,7 @@ Ao adotar o CRISP-DM, estou empregando uma abordagem estruturada e sistemática 
 
 Ao seguir o CRISP-DM, busco garantir que meus esforços estejam alinhados com os objetivos deste projeto, permitindo-me desenvolver modelos de crédito mais robustos e confiáveis. Esta metodologia me ajuda a garantir que estou aproveitando ao máximo os recursos e dados disponíveis, resultando em decisões de crédito mais informadas e eficazes.
 
-## Emtendimento do Negócio
+- Emtendimento do Negócio
 
 A PoD Bank, uma startup no setor financeiro, estabeleceu uma sólida presença de mercado ao atender a população com escassa informação de crédito. Oferecendo crédito imobiliário, veicular e empréstimo pessoal, a empresa identificou a necessidade de aprimorar suas decisões de crédito, superando a dependência exclusiva do Business Intelligence (BI).
 
@@ -22,7 +22,7 @@ A Head de crédito solicitou à área de planejamento e modelagem da PoD Bank um
 
 Essa estratégia visa melhorar a análise de riscos e garantir uma tomada de decisão mais fundamentada. Reflete o compromisso contínuo da empresa em oferecer soluções de crédito inovadoras e sustentáveis.
 
-## Entendimento dos Dados
+- Entendimento dos Dados
 
 Durante a fase de entendimento dos dados, conduzi uma análise exploratória dos dados da base application_train. Esta base contém informações sobre o público-alvo do nosso projeto de concessão de crédito.
 
@@ -30,7 +30,7 @@ Durante essa análise, explorei as características e distribuições das variá
 
 Essa etapa foi fundamental para ganhar insights iniciais sobre o público-alvo e entender melhor a natureza dos dados com os quais estou trabalhando. Essas informações orientarão as próximas etapas do projeto, incluindo a preparação dos dados e o desenvolvimento de modelos de machine learning.
 
-## Preparação dos Dados
+- Preparação dos Dados
 
 Na fase de feature engineering, estou focada em enriquecer os dados através da criação de novas variáveis em todas as tabelas relevantes do projeto. Este processo envolve a seleção cuidadosa de variáveis existentes, a aplicação de transformações adequadas e a criação de novas características que capturem informações relevantes e distintivas sobre o comportamento dos clientes no contexto de concessão de crédito.
 
