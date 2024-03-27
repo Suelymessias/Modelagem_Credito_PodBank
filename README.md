@@ -14,7 +14,7 @@ Ao adotar o CRISP-DM, estou empregando uma abordagem estruturada e sistemática 
 
 Ao seguir o CRISP-DM, busco garantir que meus esforços estejam alinhados com os objetivos deste projeto, permitindo-me desenvolver modelos de crédito mais robustos e confiáveis. Esta metodologia me ajuda a garantir que estou aproveitando ao máximo os recursos e dados disponíveis, resultando em decisões de crédito mais informadas e eficazes.
 
-- Emtendimento do Negócio
+- Entendimento do Negócio
 
 A PoD Bank, uma startup no setor financeiro, estabeleceu uma sólida presença de mercado ao atender a população com escassa informação de crédito. Oferecendo crédito imobiliário, veicular e empréstimo pessoal, a empresa identificou a necessidade de aprimorar suas decisões de crédito, superando a dependência exclusiva do Business Intelligence (BI).
 
